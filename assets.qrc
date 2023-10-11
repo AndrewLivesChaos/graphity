@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>Icons/icon_apple.png</file>
+        <file>Icons/icon_connect.png</file>
+        <file>Icons/icon_disconnect.png</file>
+        <file>Icons/icon_exit.png</file>
+        <file>Icons/icon_logs.png</file>
+        <file>Icons/icon_settings.png</file>
+        <file>Icons/icon_upload.png</file>
+    </qresource>
+</RCC>
